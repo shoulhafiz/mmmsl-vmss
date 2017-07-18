@@ -1,0 +1,2 @@
+# mmmsl-vmss
+azure
